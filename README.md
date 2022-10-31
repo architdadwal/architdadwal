@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @architdadwal
-- - MY EXPERTISE INCLUDE HTML , CSS , JAVASCRIPT , REACTJS AND REACT LIBRARIES , CSS FRAMEWORKS AND UI LIBRARIES , JIRA , GIT , VSCODE , DEBUGGING , NPM  , API INTEGRATION  AND I ALSO HAVE A BASIC KNOWLEDGE OF NODEJS , MONGODB , REACTNATIVE , ELECTRON JS  
+- - MY EXPERTISE INCLUDE HTML , CSS , JAVASCRIPT , REACTJS AND REACT LIBRARIES , CSS FRAMEWORKS AND UI LIBRARIES , JIRA , GIT , VSCODE , DEBUGGING , NPM  , API INTEGRATION  AND I ALSO HAVE A BASIC KNOWLEDGE OF NODEJS , MONGODB , REACTNATIVE , ELECTRON JS . 
 - 👀 I’m interested in front end development , React projects , Javscript , css , Html , User interface
 - 🌱 I’m currently learning latest web technologies 
 - 💞️ I’m looking to collaborate on all web development projects 
