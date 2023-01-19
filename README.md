@@ -3,7 +3,7 @@
 - 👀 I’m interested in front end development , React projects , Javscript , css , Html , User interface
 - 🌱 I’m currently learning latest web technologies 
 - 💞️ I’m looking to collaborate on all web development projects 
-- 📫 You can contact me through mail at dadwal001@gmail.com or me on +918872649119 .
+- 📫 You can contact me through mail at dadwal001@gmail.com  .
 
 
 <!---
