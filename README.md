@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @architdadwal a full stack developer (MERN StacK)
-- - My expertise includes  HTML , CSS , JAVASCRIPT , REACTJS AND REACT LIBRARIES , CSS FRAMEWORKS AND UI LIBRARIES , JIRA , GIT , NODEJS , MONGODB , NPM  , API Integration .  
+- - My expertise includes  HTML , CSS , JAVASCRIPT , REACTJS , NEXTJS , CSS FRAMEWORKS , JIRA , GIT , NODEJS , MONGODB , API Integration .  
 - 👀 I’m interested in front end development , React projects , Javscript , css , Html , User interface
 - 🌱 I’m always learning latest web technologies 
 - 💞️ I’m looking to collaborate on all web development projects 
